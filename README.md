@@ -1,6 +1,6 @@
 # Hello
 
-I am Taruntej Kanakamalla. I work on applications based on frameworks like GStreamer, PipeWire, PulseAudio etc.
+I am Taruntej Kanakamalla. I work on multimedia applications based on frameworks like GStreamer, PipeWire, PulseAudio etc.
 
 I love working on Embedded Systems and tiny Electronic Circuit boards. In the past I have developed firmware and Embedded Linux based software systems.
 
